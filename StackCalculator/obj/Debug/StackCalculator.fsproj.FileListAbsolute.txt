@@ -1,0 +1,8 @@
+C:\Users\andre.dublin\Desktop\StackCalculator\StackCalculator\bin\Debug\StackCalculator.exe.config
+C:\Users\andre.dublin\Desktop\StackCalculator\StackCalculator\bin\Debug\StackCalculator.XML
+C:\Users\andre.dublin\Desktop\StackCalculator\StackCalculator\bin\Debug\StackCalculator.exe
+C:\Users\andre.dublin\Desktop\StackCalculator\StackCalculator\bin\Debug\StackCalculator.pdb
+C:\Users\andre.dublin\Desktop\StackCalculator\StackCalculator\bin\Debug\FSharp.Core.dll
+C:\Users\andre.dublin\Desktop\StackCalculator\StackCalculator\bin\Debug\FSharp.Core.xml
+C:\Users\andre.dublin\Desktop\StackCalculator\StackCalculator\obj\Debug\StackCalculator.exe
+C:\Users\andre.dublin\Desktop\StackCalculator\StackCalculator\obj\Debug\StackCalculator.pdb
